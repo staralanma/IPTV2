@@ -282,10 +282,6 @@ http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 ,镇江新闻综合
 http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6156929a12198.jpg",Sky Sports 24 HD
-https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://rb.gy/hqp9zu",澳门有线互动新闻
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 ,创世电视
