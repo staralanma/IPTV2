@@ -282,3 +282,29 @@ http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 ,镇江新闻综合
 http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6156929a12198.jpg",Sky Sports 24 HD
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://rb.gy/hqp9zu",澳门有线互动新闻
+http://202.175.127.77/live/show/ch2/index.m3u8
+#EXTINF:-1 ,创世电视
+https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8?zgangd
+#EXTINF:-1 ,创世电视
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8?zgangd
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://n.ysyz.top:99/buyaolian/msxw.png",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://n.ysyz.top:99/buyaolian/tsxw.png",台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 ,台湾番薯台[1920*1080]
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 ,耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://rb.gy/8cpcyd",耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,中台灣生活網
+http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
