@@ -29,8 +29,6 @@ https://tv.iill.top/cqyx/cctvseHD
 #EXTINF:-1 group-title="•央视「CQYX」",CCTV15 音乐
 https://tv.iill.top/cqyx/cctv15HD
 #EXTINF:-1 group-title="•央视「CQYX」",CCTV16 奥林匹克
-https://tv.iill.top/cqyx/cctv16HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV16 奥林匹克4K
 https://tv.iill.top/cqyx/CCTV16_4K
 #EXTINF:-1 group-title="•央视「CQYX」",CCTV17 农业农村
 https://tv.iill.top/cqyx/cctv17HD
@@ -52,41 +50,29 @@ https://tv.iill.top/cqyx/fyzqHD
 https://tv.iill.top/cqyx/golfHD
 #EXTINF:-1 group-title="•央视「CQYX」",CCTV 兵器科技
 https://tv.iill.top/cqyx/bqkjHD
-#EXTINF:-1 ,创世电视
-https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 #EXTINF:-1 ,大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 ,大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 ,大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 ,凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 ,好消息
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1 ,好消息电视台
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1 ,民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 ,台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 ,唯心电视台
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1 ,香港電台普通話台
-https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 #EXTINF:-1 ,香港卫视
 http://anren.live/HK/BSJDUFpB.m3u8
 #EXTINF:-1 ,星空卫视
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
-#EXTINF:-1 ,耀才财经台
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 ,中国环球电视
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 ,中台湾生活网
-http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 #EXTINF:-1 ,人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 ,三立新闻
 http://66.165.240.154:8080/live/slxw01/hls.m3u8
+#EXTINF:-1 ,凤凰卫视
+http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
+#EXTINF:-1 ,中天新闻
+http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+#EXTINF:-1 ,民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,华视
+http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
