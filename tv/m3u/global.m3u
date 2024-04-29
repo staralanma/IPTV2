@@ -52,16 +52,6 @@ https://tv.iill.top/cqyx/fyzqHD
 https://tv.iill.top/cqyx/golfHD
 #EXTINF:-1 group-title="•央视「CQYX」",CCTV 兵器科技
 https://tv.iill.top/cqyx/bqkjHD
-#EXTINF:-1 ,伊犁哈萨克
-http://110.153.180.106:55555/out_3/index.m3u8
-#EXTINF:-1 ,潼南综合
-http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
-#EXTINF:-1 ,江阴新闻综合
-http://221.228.70.101:8080/live/xinwen.m3u8
-#EXTINF:-1 ,璧山综合
-http://222.179.42.129:8181/hls1.m3u8?zzhongqd
-#EXTINF:-1 ,靖江电视
-http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 ,人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 ,人间卫视
@@ -296,7 +286,7 @@ http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://n.ysyz.top:99/buyaolian/tsxw.png",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 ,台湾番薯台[1920*1080]
+#EXTINF:-1 ,台湾番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 ,耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
@@ -304,3 +294,5 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?z
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 ,中台灣生活網
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+#EXTINF:-1 ,民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
